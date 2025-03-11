@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bitwise Operations</title>
+    <title>Bitwise Operations.</title>
 </head>
 <body>
 <h1>Enter a List of Integers</h1>
